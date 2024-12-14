@@ -1,0 +1,12 @@
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/bin/Debug/net9.0/SanitizerSharp.deps.json
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/bin/Debug/net9.0/SanitizerSharp.dll
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/bin/Debug/net9.0/SanitizerSharp.pdb
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/obj/Debug/net9.0/SanitizerSharp.csproj.AssemblyReference.cache
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/obj/Debug/net9.0/SanitizerSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/obj/Debug/net9.0/SanitizerSharp.AssemblyInfoInputs.cache
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/obj/Debug/net9.0/SanitizerSharp.AssemblyInfo.cs
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/obj/Debug/net9.0/SanitizerSharp.csproj.CoreCompileInputs.cache
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/obj/Debug/net9.0/SanitizerSharp.dll
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/obj/Debug/net9.0/refint/SanitizerSharp.dll
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/obj/Debug/net9.0/SanitizerSharp.pdb
+/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/obj/Debug/net9.0/ref/SanitizerSharp.dll

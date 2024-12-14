@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZIh3JLN9uY=",
+  "success": true,
+  "projectFilePath": "/home/nightmaregaurav/Repositories/SanitizerSharp/SanitizerSharp/SanitizerSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/nightmaregaurav/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
